@@ -1,9 +1,0 @@
-package exercicios;
-import java.util.Scanner;
-public class Notas {
-public static void main(String[] args) {
-	Scanner in = new Scanner(System.in);
-    int mb, b, r, i, alunos;
-    System.out.println("digite a quantidade de alunos na sala");
-}
-}

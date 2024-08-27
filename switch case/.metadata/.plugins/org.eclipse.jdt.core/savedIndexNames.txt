@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+E:\TPA\sweet case\.metadata\.plugins\org.eclipse.jdt.core
-3648239880.index
-1865797976.index
