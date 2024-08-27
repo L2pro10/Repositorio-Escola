@@ -1,0 +1,16 @@
+package exercicios;
+import java.util.Scanner;
+public class Cantina {
+public static void main(String[] args) {
+	Scanner in=new Scanner(System.in);
+	int cq, cb, pc, mq, xs, code;
+	System.out.println("escreva o codigo do pedido");
+	code = in.nextInt();
+	switch(code) {
+	case 1:
+		System.out.println("nome: cachorro quente, preço:R$8,00");
+		break;
+	}
+	
+}
+}
