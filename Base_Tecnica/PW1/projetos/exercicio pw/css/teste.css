@@ -1,0 +1,37 @@
+.titulo{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: blue;
+}
+.botao{
+    border: solid 1px blue;
+    border-radius: 20px;
+    color: blue;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+line-height: 200%;
+border: solid;
+text-align: left
+
+}
+.botao:hover{
+    background-color: blue;
+    color: white;
+    transform: scale(1.2)
+}
+body{
+    border-style: groove;
+    border-width: 30px;
+    border-color: blue;
+    line-height: 300%;
+    background-color: cornflowerblue;
+}
+.fonte{
+color: blue;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.fonte1{
+    color: blue;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-align: center;
+}
