@@ -1,0 +1,39 @@
+.botao{
+    border: solid 1px red;
+    border-radius: 20px;
+    color: red;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+line-height: 200%;
+border: solid;
+text-align: left
+
+}
+.botao:hover{
+    background-color: red;
+    color: white;
+    transform: scale(1.2)
+
+}
+
+.body{
+background-image: url(imagem.html/new-dog-lanchonete.jpeg);
+background-repeat: no-repeat;
+background-size: 100%;
+background-attachment: fixed;
+}
+.fonte{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: brown;
+      border: 8px solid black;
+      border-radius: 8px;
+      max-width: 100ch;
+  
+  }
+  .imagem{
+width: 620px; height: 350px;
+border-image: 10px;
+border-radius: 1000px;
+border-color: blueviolet;
+  }
+  

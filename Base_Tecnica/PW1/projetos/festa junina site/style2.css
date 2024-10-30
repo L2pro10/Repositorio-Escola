@@ -1,0 +1,87 @@
+.barra {
+    background-color: yellow;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    display: flex;
+    
+  }
+  .redesSociais{
+    width: 65px;
+    height: 65px;
+    margin-left: 10px;
+    margin-top: 2.5px;
+  }
+  .botaoD{
+   height: 75px;
+   width: 100px;
+  }
+  @font-face {
+    font-family:'fonte pra titulos';
+    src: url(./fontes/212\ Leahlee\ Sans.ttf);
+}
+@font-face {
+    font-family:'fonte pro corpo' ;
+    src: url(./fontes/212\ Orion\ Sans\ PERSONAL\ USE.ttf);
+}
+.botao{
+    position: absolute fixed;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 120px;
+    height: 60px;
+    border: rgb(0, 0, 0) ;
+    margin-right: 20px;
+    transition: all 1s;
+      transform: translateX(0) scale(1);
+      background-color: white;
+    margin-left: 2pc;
+    }
+    .botao1{
+        position: absolute fixed;
+    border-radius: 10px;
+    width: 85px;
+    height: 40px;
+    border: black ;
+    margin-right: 20px;
+    background-color: darkgray;padding-top: 5px;
+    color: white;
+    }
+    :hover.botao,
+    :focus.botao{
+     transition: 0.5s;
+        transform: scale(1.2);
+        background-color: yellow;
+    }
+    .body{
+    background-color: black;
+    }
+    .titulo{
+        color:yellow;
+        font-family: 'fonte pra titulos';
+        font-size: 60px;
+        font-weight: 300;
+        margin-top: 7pc;
+    }
+    .explicacoes{
+        font-family: 'fonte pra titulos';
+        color: yellow;
+        font-size: 45px;
+        font-weight: 200;
+    }
+    .corpo{
+        display: flex;
+    
+    }
+    .texto1{
+       font-family: 'fonte pro corpo';
+        color: white;
+        font-size: 30px
+    }
+    .img{
+        height: 400px;
+        width: 600px;
+        margin-bottom: 5pc;
+    }
