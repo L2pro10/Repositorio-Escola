@@ -1,0 +1,179 @@
+.top{
+    position: relative;
+    width: 101%;
+    margin-left: -3px;
+}
+.box1{
+    text-align: center;
+    margin-top: 1pc;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.explicacao{
+    color: #9DA65D;
+}
+body{
+    background-color: #F2F2F2;
+
+}
+.box2{
+    display: flex;
+    margin-top: 3pc;
+    text-align: center;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    
+}
+.card-body{
+    color: #F2F2F2;
+    background-color: #202426;
+}
+.card-title1{
+    font-size: 39px;
+
+}
+.card{
+    margin: 2pc;
+
+}
+.box3{
+text-align: center;
+margin-top:5pc ;
+}
+.botao{
+    background-color: #202426;
+    color: #F2F2F2;
+    border-radius: 1pc;
+    transition: 0.5s;
+}
+.botao:hover{
+transform: scale(1.2);
+}
+
+.palavra{
+    color: red;
+}
+.box4{
+    background-color: #6C733D;
+    width: 102%;
+    margin-left: -1%;
+    text-align: center;
+    margin-top: 1pc;
+    padding-top: 1pc;
+    padding-bottom: 1pc;
+    align-items: center;
+    max-width: 1920px;
+    justify-content: center;
+}
+.letras{
+    color: #F2F2F2;
+}
+.form-group{
+    width: 40pc;
+    justify-content: center;
+    text-align: center;
+}
+.form-control{
+    background-color: #202426;
+}
+.emailHelp{
+color: #F2F2F2;
+}
+.container{
+    background-image: url(../imagens/trelas\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    max-width: 100%;
+}
+.container3{
+    background-color: #202426;
+    width: 102%;
+    margin-left: -1%;
+    max-width: 1920px;
+    padding-top: 1pc;
+    padding-bottom: 1pc;
+    display: flex;
+    justify-content: center;
+
+}
+.redes1{
+    width: 8pc;
+    height: 8pc;
+
+}
+.redes{
+    color: #F2F2F2;
+    width: 18pc;
+    text-align: center;
+}
+.botao1{    
+    border-radius: 3pc;
+    background-color: #202426;
+    transition: 0.5s;
+}
+.botao1:hover{
+    transform: scale(1.1);
+}
+.numero{
+    background-color: #9DA65D;
+    border-radius: 5px;
+}
+.telefone{
+    text-align: center;
+    color: #F2F2F2;
+    padding: 3pc;
+}
+.logo1{
+    width: 18pc;
+    height: 18pc;
+}
+form{
+    text-align: center;
+    justify-content: center;
+}
+.box7{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 3pc;
+}
+.box8{
+margin-top: 15%;
+background-color: #202426;
+color: #F2F2F2;
+border-radius: 2pc;
+height: 6pc;
+margin-right: 2pc;
+}
+.carousel-inner{
+    width: 800px;
+    height: 600px;
+    background-color: #202426;
+    border-radius:1pc;
+}
+.box6{
+    display:  flex;
+    justify-content: center;
+    text-align: center;
+
+}
+.botao2{
+    background-color: #202426;
+    color: #F2F2F2;
+    border-radius: 1pc;
+    transition: 0.5s;
+    margin: 2pc;
+    width: 10pc;
+    height: 3pc;
+}
+.botao2:hover{
+transform: scale(1.2);
+}
+.box11{
+    width: 40pc;
+    text-align: center;
+    justify-content: center;
+    margin-left: 39pc;
+}
