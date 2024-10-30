@@ -1,0 +1,98 @@
+body{
+justify-content: center;
+text-align: center;
+align-items: center;
+justify-items: center;
+}
+.container{
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+    width: 50pc;
+    margin-left: 22pc;
+    border-radius: 5pc;
+}   
+img{
+    height: 26pc;
+    width: 20pc;
+}
+.box{
+    background-color: darkgoldenrod;
+    border-radius: 5pc;
+}
+li{
+    font-size: 20px;
+}
+@media (max-width: 1000px) {
+    img{
+        height: 18pc;
+        width: 14pc;
+    }
+    .container{
+        justify-content: center;
+        text-align: center;
+        background-color: yellow;
+        width: 37.5pc;
+        margin-left: 11pc;
+        border-radius: 2.5pc;
+    }
+    .box{
+        background-color: darkgoldenrod;
+        border-radius: 5pc;
+    }
+    li{
+        font-size: 18px;
+    }
+}
+@media (max-width: 820px) {
+    img{
+        height: 18pc;
+        width: 14pc;
+    }
+    .container{
+        justify-content: center;
+        text-align: center;
+        background-color: yellow;
+        width: 43pc;
+        margin-left: 3.7pc;
+        border-radius: 2.5pc;
+    }
+    .box{
+        background-color: darkgoldenrod;
+        border-radius: 5pc;
+    }
+    li{
+        font-size: 22px;
+    }
+    h1{
+        font-size: 3pc;
+    }
+    h2{
+        font-size: 2pc;
+    }
+  }
+  @media (max-width: 412px) {
+    img{
+        height: 13pc;
+        width: 10pc;
+    }
+    .container{
+        background-color: yellow;
+        width: 22pc;
+        border-radius: 1pc;
+        margin-left: 24px;
+    .box{
+        background-color: darkgoldenrod;
+        border-radius: 2.5pc;
+    }
+    li{
+        font-size: 15px;
+    }
+    h1{
+        font-size: 1.5pc;
+    }
+    h2{
+        font-size: 1.1pc;
+    }
+  }
+}
